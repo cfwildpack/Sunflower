@@ -1,0 +1,8 @@
+{
+  "plantName": "Sunflower",
+  "scientificName": "Helianthus annuus",
+  "maxHeightCm": 300,
+  "averageGrowthPerDayCm": 2,
+  "sunlightRequiredHours": 6,
+  "waterFrequencyPerWeek": 3
+}
